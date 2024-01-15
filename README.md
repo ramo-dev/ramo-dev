@@ -29,7 +29,7 @@
 
 <div style="display:flex;flex-wrap: wrap;
             justify-content: space-between;
-            gap:20px;">
+            gap:30px;">
 <p align="left">
   <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="100" height="100"/>
