@@ -93,8 +93,8 @@
 </p>
 </div>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ramo-dev&show_icons=true&locale=en&layout=compact" alt="ramo-dev" /></p>
+<p style="margin-top:30px;" ><img style ="background:black;" align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ramo-dev&show_icons=true&locale=en&layout=compact" alt="ramo-dev" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ramo-dev&show_icons=true&locale=en" alt="ramo-dev" /></p>
+<p>&nbsp;<img align="center" style ="background:black;"src="https://github-readme-stats.vercel.app/api?username=ramo-dev&show_icons=true&locale=en" alt="ramo-dev" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ramo-dev&" alt="ramo-dev" /></p>
+<p><img align="center" style ="background:black;" src="https://github-readme-streak-stats.herokuapp.com/?user=ramo-dev&" alt="ramo-dev" /></p>
