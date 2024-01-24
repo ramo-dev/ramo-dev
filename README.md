@@ -17,7 +17,7 @@
 
 - 👨‍💻 All of my projects are available at [ramo-dev](https://www.github.com/ramo-dev)
 
-- 💬 Ask me about **python**
+- 💬 Ask me about **Javscript and Python**
 
 - 📫 How to reach me **annuarramo@gmail.com**
 
