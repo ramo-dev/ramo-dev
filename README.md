@@ -27,8 +27,12 @@
   <a href="https://instagram.com/dfw_ramo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="dfw_ramo" height="30" width="30" /></a>
 </p>
 
-<div style="display: flex; flex-wrap: wrap; justify-content: space-evenly; gap: 100px;">
-
+<div class="languages"style="display: flex; flex-wrap: wrap; justify-content: space-evenly; gap:30px;">
+<style>
+  .languages a{
+    margin:30px;
+</style>
+  <h1>My Stack:</h1>
   <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="80" height="80"/>
   </a>
