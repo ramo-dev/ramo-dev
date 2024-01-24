@@ -6,9 +6,8 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ramo-dev&theme=darkhub" alt="ramo-dev" /></a> </p>
 
 
-  <a href="https://twitter.com/ramo_szn" target="blank">
-    <img src="https://img.shields.io/twitter/follow/ramo_szn?color=ffffff&label=Follow%20@ramo_szn&logo=twitter&style=for-the-badge" alt="ramo_szn" />
-  </a>
+<p align="left"> <a href="https://twitter.com/ramo_szn" target="blank"><img src="https://img.shields.io/twitter/follow/ramo_szn?color=1DA1F2&label=Follow%20@ramo_szn&logo=twitter&style=for-the-badge" alt="ramo_szn" /></a> </p>
+
 
 
 
