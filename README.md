@@ -4,8 +4,11 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ramo-dev&label=Profile%20views&color=0e75b6&style=flat" alt="ramo-dev" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ramo-dev&theme=darkhub" alt="ramo-dev" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/ramo_szn" target="blank"><img src="https://img.shields.io/twitter/follow/ramo_szn?color=1DA1F2&label=Follow%20@ramo_szn&logo=twitter&style=for-the-badge" alt="ramo_szn" /></a> </p>
+<div style="background-color: #1DA1F2; padding: 8px; border-radius: 5px; display: inline-block;">
+  <a href="https://twitter.com/ramo_szn" target="blank">
+    <img src="https://img.shields.io/twitter/follow/ramo_szn?color=ffffff&label=Follow%20@ramo_szn&logo=twitter&style=for-the-badge" alt="ramo_szn" />
+  </a>
+</div>
 
 
 <p align="left"> <a href="https://instagram.com/dfw_ramo" target="blank"><img src="https://img.shields.io/badge/follow-dfw_ramo-E4405F?style=for-the-badge&logo=instagram" alt="dfw_ramo" /></a> </p>
