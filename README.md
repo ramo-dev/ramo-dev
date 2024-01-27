@@ -26,7 +26,7 @@
 
 - 💬 Ask me about **Javscript and Python**
 
-- 📫 How to reach me **annuarramo@gmail.com**
+- 📫 How to reach me **anuarramo@gmail.com**
 
 <div class="languages"style="display: flex; flex-wrap: wrap; justify-content: space-evenly; gap:30px;">
   <h1>My Tech Stack:</h1>
