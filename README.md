@@ -10,10 +10,10 @@
 </div>
 
 
-<!--- snake -->
+<!--- gif -->
 <div align="center">
-  <video  src="https://i.gifer.com/22G.mp4"
-       alt="any" ></video>
+  <img  src="./22G.gif"
+       alt="snake" /></a>
 </div>
 
 
