@@ -32,7 +32,7 @@
 
 - ☁️ I've keen interest in cloud computing. So,I'm learning **AWS**
 
-- 💬 Ask me about **AWS, react, Flask, nodejs, mongoDB**
+- 💬 Ask me about **APIs, react, Flask, nodejs, mongoDB**
 
 - 📫 Feel free to reach me out **anuarramo@gmail.com**
 
