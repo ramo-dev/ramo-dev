@@ -47,14 +47,14 @@
 <tr border="none">
 <td width="50%" align="center">
   
-  <img  align="center"  src="https://github-readme-stats.vercel.app/api/top-langs?username=ramo-dev&show_icons=true&locale=en&layout=compact&theme=radical" alt="ramo-dev" />
+  <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=ramo-dev&show_icons=true&locale=en&theme=radical" alt="ramo-dev" />
   <br></br>
   <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=ramo-dev&theme=dark" /> 
 </td>
 
 <td width="50%" align="center">
 
-  <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=ramo-dev&show_icons=true&locale=en&theme=radical"/>
+  <img  align="center"  src="https://github-readme-stats.vercel.app/api/top-langs?username=ramo-dev&show_icons=true&locale=en&layout=compact&theme=radical"/>
   
   </td>
 </tr>
