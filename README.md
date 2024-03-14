@@ -95,11 +95,11 @@
 
 
 <p align="center">
-<a href="https://learn.microsoft.com/api/achievements/share/en-us/AnnuarNdungu-5089/9NC3HSQU?sharingId=FC8B6448F5CB991F" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" alt="Microsoft" height="50" width="50" /></a>
-<a href="https://learn.microsoft.com/api/achievements/share/en-us/AnnuarNdungu-5089/DGKDZLEJ?sharingId=FC8B6448F5CB991F" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" alt="Microsoft" height="50" width="50" /></a>
-<a href="https://learn.microsoft.com/api/achievements/share/en-us/AnnuarNdungu-5089/3X9347MH?sharingId=FC8B6448F5CB991F" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" alt="Microsoft" height="50" width="50" /></a>
-<a href="https://learn.microsoft.com/api/achievements/share/en-us/AnnuarNdungu-5089/UFCUQXB3?sharingId=FC8B6448F5CB991F" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" alt="Microsoft" height="50" width="50" /></a>
-<a href="https://learn.microsoft.com/api/achievements/share/en-us/AnnuarNdungu-5089/WAHWPGGN?sharingId=FC8B6448F5CB991F" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" alt="Microsoft" height="50" width="50" /></a>
+<a href="https://learn.microsoft.com/en-us/training/achievements/create-git-project.svg" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" alt="Microsoft" height="50" width="50" /></a>
+<a href="https://learn.microsoft.com/en-us/training/achievements/student-evangelism/introduction-to-git-badge.svg" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" alt="Microsoft" height="50" width="50" /></a>
+<a href="https://learn.microsoft.com/en-us/learn/achievements/generic-badge.svg" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" alt="Microsoft" height="50" width="50" /></a>
+<a href="https://learn.microsoft.com/en-us/training/achievements/github/introduction-to-github-using-visual-studio-code.svg" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" alt="Microsoft" height="50" width="50" /></a>
+<a href="https://learn.microsoft.com/en-us/training/achievements/github/introduction-to-github.svg" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" alt="Microsoft" height="50" width="50" /></a>
 </p>
 
 
