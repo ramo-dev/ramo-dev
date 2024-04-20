@@ -49,7 +49,7 @@
   
   <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=ramo-dev&show_icons=true&locale=en&theme=dark" alt="ramo-dev" />
   <br></br>
-  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="[![GitHub Streak](https://streak-stats.demolab.com/?user=ramo-dev&theme=dark)](https://git.io/streak-stats)" /> 
+  [![GitHub Streak](https://streak-stats.demolab.com?user=ramodev&theme=dark&hide_border=true&border_radius=0&exclude_days=Sun&stroke=EB545400)](https://git.io/streak-stats)
 </td>
 
 <td width="50%" align="center">
