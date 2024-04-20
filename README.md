@@ -49,7 +49,7 @@
   
   <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=ramo-dev&show_icons=true&locale=en&theme=dark" alt="ramo-dev" />
   <br></br>
-  <img align="center" src="https://streak-stats.demolab.com?user=ramodev&theme=dark&hide_border=true&border_radius=0&exclude_days=Sun&stroke=EB545400)">
+  <img align="center" src="https://streak-stats.demolab.com?user=ramodev&theme=dark&exclude_days=Sun&stroke=EB545400)](https://git.io/streak-stats">
 </td>
 
 <td width="50%" align="center">
