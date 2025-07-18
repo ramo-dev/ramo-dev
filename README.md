@@ -34,7 +34,7 @@
 
 - 💬 Ask me about **APIs, react, Flask, nodejs, mongoDB**
 
-- 📫 Feel free to reach me out **anuarramo@gmail.com**
+- 📫 Feel free to reach me out **annuar.dev@gmail.com**
 
 <!--Intro end-->
 
